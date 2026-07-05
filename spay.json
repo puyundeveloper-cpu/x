@@ -1,1 +1,3 @@
-{ "api_url": "http://private.gervhosting.my.id:5178", "ws_url": "ws://private.gervhosting.my.id:5178" }
+{ 
+  "x": "http://private.gervhosting.my.id:5178" 
+}
